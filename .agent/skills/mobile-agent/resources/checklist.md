@@ -32,4 +32,4 @@ Run through every item before submitting your work.
 - [ ] Unit tests for domain logic and providers
 - [ ] Widget tests for key screens
 - [ ] Edge cases: empty lists, error states, offline mode
-- [ ] Tests pass on both platforms
+- [ ] Tests pass on both platforms
