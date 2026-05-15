@@ -12,4 +12,4 @@ export const OAuthLoginRequestProvider = {
   google: 'google',
   github: 'github',
   facebook: 'facebook',
-} as const;
+} as const;
