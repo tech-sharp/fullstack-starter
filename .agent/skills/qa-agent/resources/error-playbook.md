@@ -92,4 +92,4 @@ Do NOT stop or ask for help until you have exhausted the playbook.
 
 - **False positive prevention**: If finding is uncertain, lower severity and mark "verify manually"
 - **Blocked**: If no progress after 5 turns, save current state, `Status: blocked`
-- **No code modification**: QA only reports — delegate code changes to the appropriate agent
+- **No code modification**: QA only reports — delegate code changes to the appropriate agent
