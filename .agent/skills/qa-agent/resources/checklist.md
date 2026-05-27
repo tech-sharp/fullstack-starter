@@ -291,4 +291,4 @@
 - Use Antigravity Browser for E2E testing
 - Document all findings with file:line references
 - Provide remediation code examples
-- Estimate fix time for each issue
+- Estimate fix time for each issue
