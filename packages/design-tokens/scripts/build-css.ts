@@ -47,4 +47,4 @@ function main(): void {
   console.log(`✅ CSS tokens written to: ${OUTPUT_PATH}`);
 }
 
-main();
+main();
