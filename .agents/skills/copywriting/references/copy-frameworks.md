@@ -335,4 +335,4 @@ Best testimonials include:
 Avoid testimonials that just say:
 - "Great product!"
 - "Love it!"
-- "Easy to use!"
+- "Easy to use!"
