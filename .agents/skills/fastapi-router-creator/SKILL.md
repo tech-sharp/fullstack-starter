@@ -66,4 +66,4 @@ src/app/
     ```python
     router = APIRouter(dependencies=[Depends(get_current_active_user)])
     ```
-4.  **Version**: Namespace routers by API version (`v1`, `v2`).
+4.  **Version**: Namespace routers by API version (`v1`, `v2`).
