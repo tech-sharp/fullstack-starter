@@ -43,4 +43,4 @@ export const RefreshTokenApiAuthRefreshPostResponse = zod.object({
   "refresh_token": zod.string(),
   "token_type": zod.string().default(refreshTokenApiAuthRefreshPostResponseTokenTypeDefault)
 }).describe('Token response.')
-
+
