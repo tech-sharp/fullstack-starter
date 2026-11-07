@@ -11,4 +11,4 @@ export default getRequestConfig(async ({ requestLocale }) => {
     messages: (await import(`@/config/messages/${locale}.json`)).default,
     timeZone: "Asia/Seoul",
   };
-});
+});
