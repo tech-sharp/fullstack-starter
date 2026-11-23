@@ -87,4 +87,4 @@ function main(): void {
   console.log(`✅ Flutter theme written to: ${OUTPUT_PATH}`);
 }
 
-main();
+main();
