@@ -73,4 +73,4 @@ function main(): void {
   debouncedBuild();
 }
 
-main();
+main();
